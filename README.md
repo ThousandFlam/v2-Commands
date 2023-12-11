@@ -1,14 +1,22 @@
 # v2-Commands
 
+Currently starting page 5
 
 # Table of Contents
 - [One Piece](#one-piece)
-  - [Subsection 1.1](#subsection-11)
-  - [Subsection 1.2](#subsection-12)
 - [Numbers](#numbers)
-  - [Subsection 2.1](#subsection-21)
 - [v2](#v2)
-- [Other](#other)
+- [JoJo](#v2)
+- [Hunter x Hunter](#v2)
+- [Tower of God](#v2)
+- [Fate](#v2)
+- [One Punch](#v2)
+- [Adventure Time](#v2)
+- [Grand Blue](#v2)
+- [Naruto](#other)
+- [Kpop](#v2)
+- [Attacks](#v2)
+- [Other](#v2)
 
 ## One Piece
 - nipplelights
@@ -30,6 +38,13 @@
 - pirate
 - tbc
 - ohyes
+- treasure
+- eneru
+- jeanango
+- loofy
+- endwar
+- rainingmen
+
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -79,6 +94,13 @@
 - narutomangareturns
 - sable
 - rebecca
+- anime
+- marvel
+- eggplant (not working)
+- so
+- chat
+- vb
+- angelenterschat
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -96,6 +118,7 @@
 ## Tower of God
 - push
 - towerofgod (not working)
+- rachel
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -103,6 +126,9 @@
 - rules
 - berserker
 - hardestquestion
+- carnival (not working)
+- bersercar
+- luviaplease
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -114,6 +140,30 @@
 
 ## Adventure Time
 - disgonbegud
+- eyebrows
+
+[Return to Table of Contents](#table-of-contents)
+
+## Grand Blue
+- salt
+- comedicrelief
+- youreshit
+- datingadvice
+
+[Return to Table of Contents](#table-of-contents)
+
+## Naruto
+- believeit
+- needsmoreino
+
+[Return to Table of Contents](#table-of-contents)
+
+## Kpop
+- kyungri (not working)
+
+[Return to Table of Contents](#table-of-contents)
+
+## Attacks
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -137,5 +187,10 @@
 - ants
 - willofd
 - ruserious
+- jesus (not working)
+- bewithyou (not working)
+- ohmy
+- magigigikamirdindodinnorurundou
+- lootbox (not working)
 
 [Return to Table of Contents](#table-of-contents)
