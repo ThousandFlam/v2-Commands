@@ -2,6 +2,21 @@
 
 Currently starting page 5
 
+Welcome to the OPMv2 server! Here you will find a list of available commands you can use.
+
+If you encounter any issues with the commands or would like to request a new command, please contact the Discord mods
+
+## Usage
+
+Each command must be prefixed with "-" to work. For example:
+
+- `-yes`
+- `-no`
+
+Note: Only one command can be executed per post. The bot will only respond to the first command mentioned in a message.
+
+---
+
 # Table of Contents
 - [One Piece](#one-piece)
 - [Numbers](#numbers)
