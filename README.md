@@ -31,7 +31,7 @@
 - tbc
 - ohyes
 
-
+[Return to Table of Contents](#table-of-contents)
 
 ## Numbers
 - 0 (not working)
@@ -51,6 +51,8 @@
 - 36
 - 100
 - 9001
+
+[Return to Table of Contents](#table-of-contents)
 
 
 ## v2
@@ -78,28 +80,42 @@
 - sable
 - rebecca
 
+[Return to Table of Contents](#table-of-contents)
+
 ## JoJo
 - goodbye
+
+[Return to Table of Contents](#table-of-contents)
 
 ## Hunter x Hunter
 - turkey
 - hiatus
 
+[Return to Table of Contents](#table-of-contents)
+
 ## Tower of God
 - push
 - towerofgod (not working)
+
+[Return to Table of Contents](#table-of-contents)
 
 ## Fate
 - rules
 - berserker
 - hardestquestion
 
+[Return to Table of Contents](#table-of-contents)
+
 ## One Punch
 - watch
 - ok
 
+[Return to Table of Contents](#table-of-contents)
+
 ## Adventure Time
 - disgonbegud
+
+[Return to Table of Contents](#table-of-contents)
 
 ## Other
 - no
@@ -121,3 +137,5 @@
 - ants
 - willofd
 - ruserious
+
+[Return to Table of Contents](#table-of-contents)
