@@ -1,4 +1,4 @@
-# v2-Commands
+# OPMv2 Discord Command List
 
 Currently starting page 5
 
@@ -15,6 +15,7 @@ Currently starting page 5
 - [Grand Blue](#grand-blue)
 - [Naruto](#naruto)
 - [Kpop](#kpop)
+- [Yakuza](#yakuza)
 - [Attacks](#attacks)
 - [Other](#other)
 
@@ -160,6 +161,10 @@ Currently starting page 5
 
 ## Kpop
 - kyungri (not working)
+
+[Return to Table of Contents](#table-of-contents)
+
+## Yakuza
 
 [Return to Table of Contents](#table-of-contents)
 
