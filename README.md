@@ -1,6 +1,6 @@
 # OPMv2 Discord Command List
 
-Currently starting page 10
+Currently starting page 12
 
 Welcome to the OPMv2 server! Here you will find a list of available commands you can use.
 
@@ -99,6 +99,16 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - sudoku (not working)
 - akainupunch
 - notenoughbadges
+- yendigger
+- umad
+- moshi
+- foreveralone
+- pardonme
+- sanji
+- shizaclown
+- headcanon
+- nextchapter
+
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -197,6 +207,53 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - getinloser
 - begentle
 - grazie (not working)
+- gangstar
+- tasteslike
+- lies
+- nice
+- tequila
+- crying
+- plot
+- boner
+- enemystand
+- fix
+- pipinghot
+- beautifulduwang
+- noweakness
+- ifeelyou
+- sportygio
+- pillarbirds
+- storau
+- sportypillar
+- moveslikejaggers
+- call
+- mmm
+- bullshit
+- sportyshiza
+- cantseeme
+- kiss
+- jealous
+- ariariari
+- mozzarella
+- dioaway
+- buenosnachos
+- jojoreference
+- darbykun
+- youwannago
+- american
+- french
+- japanese
+- italian
+- thewall
+- mushroom
+- extremelyimportant
+- meinkomp (not working)
+- zawarudo
+- love
+- yourchances
+- dolphins
+- hand
+
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -243,6 +300,8 @@ Note: Only one command can be executed per post. The bot will only respond to th
 ## Adventure Time
 - disgonbegud
 - eyebrows
+- spits
+- politicalrap
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -370,5 +429,8 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - hanzo
 - ???
 - itwaswall
+- ohhhh
+- equalrights
+- awaken
 
 [Return to Table of Contents](#table-of-contents)
