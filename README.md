@@ -1,6 +1,6 @@
 # OPMv2 Discord Command List
 
-Currently starting page 12
+Currently starting page 13
 
 Welcome to the OPMv2 server! Here you will find a list of available commands you can use.
 
@@ -108,6 +108,8 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - shizaclown
 - headcanon
 - nextchapter
+- piss
+- pirateking
 
 
 [Return to Table of Contents](#table-of-contents)
@@ -181,6 +183,7 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - flamingyawn (not working)
 - gwimmy
 - impressed
+- soratu
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -253,6 +256,26 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - yourchances
 - dolphins
 - hand
+- gospel
+- nun
+- nani
+- thirdreich
+- germanscience
+- digiorno
+- yareyare
+- chew
+- fangirl
+- prettygood
+- malefantasy (not working)
+- wryyy (not working)
+- ger
+- blaze
+- itwasmexican
+- pose
+- itwasdino
+- sit
+- gappy
+
 
 
 [Return to Table of Contents](#table-of-contents)
@@ -277,6 +300,7 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - trash
 - mrkoon
 - koon
+- please
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -302,6 +326,8 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - eyebrows
 - spits
 - politicalrap
+- scream
+- anarchy
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -319,6 +345,10 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - fb
 - coming
 - absolutelynot
+- _-
+- rumble
+
+
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -432,5 +462,8 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - ohhhh
 - equalrights
 - awaken
+- clevergirl
+- takeitoff
+- feelssogood
 
 [Return to Table of Contents](#table-of-contents)
