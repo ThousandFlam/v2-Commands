@@ -1,6 +1,6 @@
 # OPMv2 Discord Command List
 
-Currently starting page 7
+Currently starting page 9
 
 Welcome to the OPMv2 server! Here you will find a list of available commands you can use.
 
@@ -72,7 +72,27 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - painintheass
 - sowwy
 - ucy
-
+- naca
+- happinesspunch
+- art
+- drawing
+- barackokama
+- caesar
+- hakibush
+- number1
+- rightonthelips
+- socute
+- mrrogers (not working)
+- waaaah?
+- grill
+- wall
+- family
+- onepieceofcrap (not working)
+- itsme
+- characters
+- bignewsmorgan (not working)
+- fakenews
+- scoop
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -137,12 +157,23 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - cosmo (not working)
 - jollyalexabliss (not working)
 - grimalexabliss
+- poneglyph
+- alexabliss? (not working)
+- paddle
+- carvel
+- dothething
+- flamingyawn (not working)
+- gwimmy
 
 [Return to Table of Contents](#table-of-contents)
 
 ## JoJo
 - goodbye
 - horyshet (not working)
+- sonadabitch (not working)
+- ohmygod (not working)
+- ohno
+- spaghetti
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -164,6 +195,8 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - revolution
 - leader
 - trash
+- mrkoon
+- koon
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -198,12 +231,19 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - pieceofshit
 - ugh
 - demon
+- terrifying
+- mycrotch
+- idiot
+- fb
+- coming
+- absolutelynot
 
 [Return to Table of Contents](#table-of-contents)
 
 ## Naruto
 - believeit
 - needsmoreino
+- boobs
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -281,5 +321,24 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - giant
 - fliptable
 - never
+- otaku
+- otakuscum
+- mayonnaise
+- knowyourplace
+- palindrome
+- reading
+- letssuck
+- notbad
+- mytrumpcard
+- hotshower
+- mysides
+- excalibur
+- protect
+- slaps
+- shinsuke (not working)
+- nakamura (not working)
+- whoops
+- spoilers
+- how
 
 [Return to Table of Contents](#table-of-contents)
