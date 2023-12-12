@@ -1,6 +1,6 @@
 # OPMv2 Discord Command List
 
-Currently starting page 9
+Currently starting page 10
 
 Welcome to the OPMv2 server! Here you will find a list of available commands you can use.
 
@@ -93,6 +93,12 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - bignewsmorgan (not working)
 - fakenews
 - scoop
+- onepiecebreak
+- bignews
+- sportycaesar
+- sudoku (not working)
+- akainupunch
+- notenoughbadges
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -164,6 +170,7 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - dothething
 - flamingyawn (not working)
 - gwimmy
+- impressed
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -174,6 +181,22 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - ohmygod (not working)
 - ohno
 - spaghetti
+- india (not working)
+- lali-ho
+- pillar (not working)
+- rero
+- bloodystream (not working)
+- itwasme
+- roundabout
+- sportydio
+- muda
+- dioshield
+- daho
+- excellentresponse
+- mudamudamuda
+- getinloser
+- begentle
+- grazie (not working)
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -278,6 +301,7 @@ Note: Only one command can be executed per post. The bot will only respond to th
 [Return to Table of Contents](#table-of-contents)
 
 ## Attacks
+- heroshield
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -340,5 +364,11 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - whoops
 - spoilers
 - how
+- ishipit
+- nope
+- kys (not working)
+- hanzo
+- ???
+- itwaswall
 
 [Return to Table of Contents](#table-of-contents)
