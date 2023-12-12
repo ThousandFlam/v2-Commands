@@ -1,6 +1,6 @@
 # OPMv2 Discord Command List
 
-Currently starting page 5
+Currently starting page 7
 
 Welcome to the OPMv2 server! Here you will find a list of available commands you can use.
 
@@ -29,8 +29,10 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - [Adventure Time](#adventure-time)
 - [Grand Blue](#grand-blue)
 - [Naruto](#naruto)
+- [Prison School](#prison-school)
 - [Kpop](#kpop)
 - [Yakuza](#yakuza)
+- [Yotsuba](#yotsuba)
 - [Attacks](#attacks)
 - [Other](#other)
 
@@ -60,6 +62,16 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - loofy
 - endwar
 - rainingmen
+- negative
+- newchapterparty
+- beri (not working)
+- neverforgive
+- yearofsanji
+- newchapter
+- youmeangenius
+- painintheass
+- sowwy
+- ucy
 
 
 [Return to Table of Contents](#table-of-contents)
@@ -117,17 +129,30 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - chat
 - vb
 - angelenterschat
+- soratunosebest
+- jusratu
+- cable
+- ofthesea
+- jgr
+- cosmo (not working)
+- jollyalexabliss (not working)
+- grimalexabliss
 
 [Return to Table of Contents](#table-of-contents)
 
 ## JoJo
 - goodbye
+- horyshet (not working)
 
 [Return to Table of Contents](#table-of-contents)
 
 ## Hunter x Hunter
 - turkey
 - hiatus
+- merciless
+- evolution
+- timetoread
+- notification
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -135,6 +160,10 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - push
 - towerofgod (not working)
 - rachel
+- news
+- revolution
+- leader
+- trash
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -145,6 +174,7 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - carnival (not working)
 - bersercar
 - luviaplease
+- getfuckedshinji
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -165,12 +195,26 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - comedicrelief
 - youreshit
 - datingadvice
+- pieceofshit
+- ugh
+- demon
 
 [Return to Table of Contents](#table-of-contents)
 
 ## Naruto
 - believeit
 - needsmoreino
+
+[Return to Table of Contents](#table-of-contents)
+
+## Prison School
+- needsmoreass
+- nipple
+- needsmorelesbians
+- notwrong
+- immune
+- greatestquestion
+- greatestanswer
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -183,19 +227,27 @@ Note: Only one command can be executed per post. The bot will only respond to th
 
 [Return to Table of Contents](#table-of-contents)
 
+## Yotsuba
+- no
+- yes
+- fat
+- notime
+- dream
+- trickatree
+
+[Return to Table of Contents](#table-of-contents)
+
 ## Attacks
 
 [Return to Table of Contents](#table-of-contents)
 
 ## Other
-- no
 - slap
 - spiderman
 - handsome
 - isee
 - bestgirl
 - botan
-- yes
 - overwatch (not working)
 - wrong
 - faggot (not working)
@@ -212,5 +264,22 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - ohmy
 - magigigikamirdindodinnorurundou
 - lootbox (not working)
+- rockpaperscissors (not working)
+- happyhalloween
+- ass
+- titsorass
+- erection
+- panties (not working)
+- smug
+- rokka
+- notblack (not working)
+- suck
+- cum
+- shadowkronejutsu
+- waxdoll (not working)
+- essayhaki
+- giant
+- fliptable
+- never
 
 [Return to Table of Contents](#table-of-contents)
