@@ -1,6 +1,6 @@
 # OPMv2 Discord Command List
 
-Currently starting page 13
+Currently starting page 14
 
 Welcome to the OPMv2 server! Here you will find a list of available commands you can use.
 
@@ -108,6 +108,9 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - nextchapter
 - piss
 - pirateking
+- cucumber
+- weird
+- onepiece
 
 
 [Return to Table of Contents](#table-of-contents)
@@ -182,6 +185,8 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - gwimmy
 - impressed
 - soratu
+- auntman
+- scarymonsters
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -273,6 +278,21 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - itwasdino
 - sit
 - gappy
+- oraoraora
+- hamon
+- rule34
+- laughingmexicans
+- assholes
+- howmany
+- dio
+- nottriggered
+- icecream
+- parfait
+- nana
+- friedchicken
+- notfriedchicken
+- newage
+- myactions
 
 
 
@@ -345,6 +365,7 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - absolutelynot
 - _-
 - rumble
+- loveboobs
 
 
 
@@ -466,5 +487,14 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - clevergirl
 - takeitoff
 - feelssogood
+- flavor
+- legendary
+- dva
+- adults
+- eroticsite
+- inmymouth
+- nsfw
+- fanservice
+- culture
 
 [Return to Table of Contents](#table-of-contents)
