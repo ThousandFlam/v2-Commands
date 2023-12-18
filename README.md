@@ -63,7 +63,6 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - rainingmen
 - negative
 - newchapterparty
-- beri (not working)
 - neverforgive
 - yearofsanji
 - newchapter
@@ -375,7 +374,9 @@ Note: Only one command can be executed per post. The bot will only respond to th
 [Return to Table of Contents](#table-of-contents)
 
 ## Yakuza
+- congrats
 - chat4
+- kuze
 
 [Return to Table of Contents](#table-of-contents)
 
