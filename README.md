@@ -44,7 +44,6 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - wink
 - nothing
 - skulljoke
-- nigga (not working)
 - monstertrio
 - super
 - like
@@ -376,6 +375,7 @@ Note: Only one command can be executed per post. The bot will only respond to th
 [Return to Table of Contents](#table-of-contents)
 
 ## Yakuza
+- chat4
 
 [Return to Table of Contents](#table-of-contents)
 
