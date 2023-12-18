@@ -1,6 +1,6 @@
 # OPMv2 Discord Command List
 
-Currently starting page 14
+Currently starting page 15
 
 Welcome to the OPMv2 server! Here you will find a list of available commands you can use.
 
@@ -187,6 +187,7 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - soratu
 - auntman
 - scarymonsters
+- chat3
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -293,6 +294,25 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - notfriedchicken
 - newage
 - myactions
+- pancakes
+- yournextline
+- evenspeedwagon
+- dictionary
+- hankawakening
+- spoon
+- seaorland
+- notcrying
+- key
+- thefirstnapkin
+- whichdoiskip
+- anything
+- turtle
+- hermitpurple
+- friends
+- ohthatsabaseball
+- 7up
+- rokakoichi
+- gaypriest
 
 
 
@@ -319,6 +339,7 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - mrkoon
 - koon
 - please
+- die
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -366,6 +387,9 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - _-
 - rumble
 - loveboobs
+- really?
+- wait
+- think
 
 
 
@@ -496,5 +520,11 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - nsfw
 - fanservice
 - culture
+- shrug
+- sex
+- dumbass
+- jail
+- trading (not working)
+- juggle
 
 [Return to Table of Contents](#table-of-contents)
