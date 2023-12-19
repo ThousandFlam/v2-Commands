@@ -451,6 +451,7 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - congrats
 - chat4
 - kuze
+- hi
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -558,7 +559,6 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - sex
 - dumbass
 - jail
-- trading (not working)
 - juggle
 - africa
 
