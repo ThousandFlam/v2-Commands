@@ -267,7 +267,6 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - thewall
 - mushroom
 - extremelyimportant
-- meinkomp (not working)
 - zawarudo
 - love
 - yourchances
@@ -454,6 +453,7 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - kanpai
 - thumbsup
 - sits
+- joryukick
 
 [Return to Table of Contents](#table-of-contents)
 
