@@ -453,6 +453,7 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - hi
 - kanpai
 - thumbsup
+- sits
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -495,7 +496,6 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - willofd
 - ruserious
 - jesus (not working)
-- bewithyou (not working)
 - ohmy
 - magigigikamirdindodinnorurundou
 - lootbox (not working)
