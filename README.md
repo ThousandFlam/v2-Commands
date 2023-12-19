@@ -337,7 +337,6 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - jew (not working)
 - math
 - banana
-- 9thcircleofhell (not working)
 
 
 
@@ -452,6 +451,7 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - chat4
 - kuze
 - hi
+- kanpai
 
 [Return to Table of Contents](#table-of-contents)
 
