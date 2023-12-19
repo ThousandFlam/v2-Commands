@@ -452,6 +452,7 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - kuze
 - hi
 - kanpai
+- thumbsup
 
 [Return to Table of Contents](#table-of-contents)
 
