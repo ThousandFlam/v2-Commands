@@ -1,6 +1,6 @@
 # OPMv2 Discord Command List
 
-Currently starting page 15
+Currently starting page 16
 
 Welcome to the OPMv2 server! Here you will find a list of available commands you can use.
 
@@ -33,6 +33,7 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - [Kpop](#kpop)
 - [Yakuza](#yakuza)
 - [Yotsuba](#yotsuba)
+- [Black Clover](#black-clover)
 - [Attacks](#attacks)
 - [Other](#other)
 
@@ -111,6 +112,18 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - cucumber
 - weird
 - onepiece
+- yohohoho
+- littleshits
+- poop
+- whoisthis
+- nakama
+- enemies
+- mansdream
+- eheheh
+- justajoke
+- whatthehell
+- bigmom
+- zoroaway
 
 
 [Return to Table of Contents](#table-of-contents)
@@ -313,6 +326,18 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - 7up
 - rokakoichi
 - gaypriest
+- babyfood
+- zadolphin
+- yesyesyes
+- nonono
+- noidea
+- koichiscream
+- ringalinga
+- good
+- jew (not working)
+- math
+- banana
+- 9thcircleofhell (not working)
 
 
 
@@ -325,6 +350,7 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - evolution
 - timetoread
 - notification
+- turkeyparfait
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -351,6 +377,8 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - bersercar
 - luviaplease
 - getfuckedshinji
+- consent
+- angry
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -419,6 +447,7 @@ Note: Only one command can be executed per post. The bot will only respond to th
 [Return to Table of Contents](#table-of-contents)
 
 ## Yakuza
+- black
 - congrats
 - chat4
 - kuze
@@ -432,6 +461,11 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - notime
 - dream
 - trickatree
+
+[Return to Table of Contents](#table-of-contents)
+
+## Black Clover
+- filth
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -526,5 +560,6 @@ Note: Only one command can be executed per post. The bot will only respond to th
 - jail
 - trading (not working)
 - juggle
+- africa
 
 [Return to Table of Contents](#table-of-contents)
